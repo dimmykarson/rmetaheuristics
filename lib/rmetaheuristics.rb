@@ -1,5 +1,11 @@
 require "rmetaheuristics/version"
 
 module Rmetaheuristics
-  # Your code goes here...
+
+end
+
+class MetaHUtil
+  	def help
+  		puts "Help!"
+  	end
 end
